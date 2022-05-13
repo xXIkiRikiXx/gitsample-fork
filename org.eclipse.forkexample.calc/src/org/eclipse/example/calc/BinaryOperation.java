@@ -9,7 +9,7 @@
 package org.eclipse.example.calc;
 
 /**
- * Binary operation interface
+ * Binary operation interface 
  */
 public interface BinaryOperation extends Operation {
 	/**
