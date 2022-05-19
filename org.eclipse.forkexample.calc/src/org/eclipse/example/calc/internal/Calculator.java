@@ -36,6 +36,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+
 		//my operation to add
 		//more operations to come jwrtal
 
@@ -44,6 +45,8 @@ public class Calculator {
 		new Plus();
 		new Square();
 		// end my operation
+=======
+
 	}
 
 	private void calculate(String cmdName) {

@@ -7,8 +7,14 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
 package org.eclipse.example.calc;
+
 /**
  * Binary operation interface
+
+
+/**
+ * Binary operation interface 
+
  */
 public interface BinaryOperation extends Operation {
 	/**
@@ -16,5 +22,6 @@ public interface BinaryOperation extends Operation {
 	 * @param arg2 second parameter
 	 * @return result of binary operation
 	 */ 
+	 */
 	public float perform(float arg1, float arg2);
 }
