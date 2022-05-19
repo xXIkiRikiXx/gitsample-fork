@@ -37,6 +37,8 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		//my operation to add
+		//more operations to come jwrtal
+
 		new Equals();
 		new Minus();
 		new Plus();
